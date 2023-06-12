@@ -67,4 +67,4 @@ while True:
         drink = coffe[answer]
         sufficient_res(drink["ingrd"])
         print(f"Machine resources now are: {machine}")
-s
+
