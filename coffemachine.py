@@ -61,7 +61,7 @@ while True:
     answer = input("(Espresso/Latte/Capuccino) OR report, off to exit: ").lower()
     if answer == "report":
         print(machine)
-    elif answer == "off":afu
+    elif answer == "off":
         break
     else:
         drink = coffe[answer]
